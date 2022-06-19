@@ -1,2 +1,2 @@
 # Practica de instruire C++
- The first exercise in training practice
+ The first exercise in training practice, year II
