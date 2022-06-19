@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1654529905 source:c:\users\victo\desktop\coledj\programare\programe\first problem\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<math.h>
+	<map>
+	<regex>
+	<tuple>
+
+1654151723 source:c:\users\user\downloads\first problem-20220602t051116z-001\first problem\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<math.h>
+	<map>
+	<regex>
+	<tuple>
+	<stdio.h>
+	<stdlib.h>
+
+1654581337 source:c:\users\user\downloads\first problem-20220607t052139z-001\first problem\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<math.h>
+	<map>
+	<regex>
+	<tuple>
+
+1654617329 source:c:\users\victo\desktop\coledj\programare\programe\first problem\first problem\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<math.h>
+	<map>
+	<regex>
+	<tuple>
+
+1654685396 source:c:\users\user\downloads\first problem-20220608t054732z-001\first problem\first problem\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<math.h>
+	<map>
+	<regex>
+	<tuple>
+	<stack>
+
+1655068983 source:c:\users\victo\desktop\first problem\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+	<math.h>
+	<map>
+	<regex>
+	<tuple>
+	<stack>
+
